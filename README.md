@@ -1,1 +1,1 @@
-# mern-app (TypeScript, Authentication, Deployment...)
+# MERN-app (TypeScript, Authentication, Deployment...)
